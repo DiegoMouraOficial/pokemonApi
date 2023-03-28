@@ -23,6 +23,10 @@ Para começar a usar a PokeAPI em seu projeto, você pode enviar solicitações 
 
 A PokeAPI é mantida pela comunidade e hospedada no GitHub em https://github.com/PokeAPI/pokeapi. Se você tiver alguma dúvida ou problema com a API, sinta-se à vontade para abrir uma issue no GitHub.
 
+##Imagem do projeto
+
+![pokedex-pokeapi-diego-moura](https://user-images.githubusercontent.com/107559912/228342172-a6c2e1f9-d020-4ca5-9227-2b46ebc22162.jpeg)
+
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
