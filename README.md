@@ -26,9 +26,6 @@ A PokeAPI é mantida pela comunidade e hospedada no GitHub em https://github.com
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-- ``HTML5`
-- ``CSS``
-- ``JAVA SCRIPT``
-- ``HTML5`
+- ``HTML5``
 - ``CSS``
 - ``JAVA SCRIPT``
