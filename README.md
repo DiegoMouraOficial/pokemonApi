@@ -33,3 +33,24 @@ A PokeAPI é mantida pela comunidade e hospedada no GitHub em https://github.com
 - ``HTML5``
 - ``CSS``
 - ``JAVA SCRIPT``
+
+## 🤝 Faça sua Contribuição
+<p>
+Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
+
+Se te ajudei de alguma forma, ficarei feliz em saber.😜
+
+Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
+
+</p></br>
+
+> ## Se possível
+
+<p>
+
+- ⭐️ Dê sua estrela ao projeto.
+
+- 🐛 Encontre e relate issues.
+</p>
+
+Desenvolvido 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
