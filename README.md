@@ -24,7 +24,7 @@ Para começar a usar a PokeAPI em seu projeto, você pode enviar solicitações 
 A PokeAPI é mantida pela comunidade e hospedada no GitHub em https://github.com/PokeAPI/pokeapi. Se você tiver alguma dúvida ou problema com a API, sinta-se à vontade para abrir uma issue no GitHub.
 
 
-✔️ ## Técnicas e tecnologias utilizadas
+## ✔️ Técnicas e tecnologias utilizadas
 
 - ``HTML5``
 - ``CSS``
