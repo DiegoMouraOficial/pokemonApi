@@ -25,8 +25,9 @@ A PokeAPI é mantida pela comunidade e hospedada no GitHub em https://github.com
 
 ##Imagem do projeto
 
-![pokedex-pokeapi-diego-moura](https://user-images.githubusercontent.com/107559912/228342172-a6c2e1f9-d020-4ca5-9227-2b46ebc22162.jpeg)
-
+<div align="center">
+<img src="![pokedex-pokeapi-diego-moura](https://user-images.githubusercontent.com/107559912/228342172-a6c2e1f9-d020-4ca5-9227-2b46ebc22162.jpeg)"/>
+</div>
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
