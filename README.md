@@ -1,7 +1,7 @@
 <h1 align="center"> PokeApi</h1>
 
 <p align="center">
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=RED&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=red&style=for-the-badge"/>
 </p>
 
 ## Resumo do projeto
