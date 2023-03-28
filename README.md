@@ -1,4 +1,4 @@
-<h1 align="center"> PokeApi</h1>
+<h1 align="center"> Pokémon - Projeto Pokedex para consumo da PokeApi</h1>
 
 
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=critical&style=for-the-badge"/>
